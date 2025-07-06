@@ -1,2 +1,3 @@
 # LeetcodeSolution
- leetcode solution  in easy way.
+ leetcode solution   .
+ with much faster way.
